@@ -4,7 +4,6 @@
  * main - possible different combinations of two numbers
  *Return: always 0
  */
-
 int main(void)
 {
 	int n, m;
